@@ -126,11 +126,11 @@
 
                         <div class="footer_copyright flex gap-[12px]">
 
-                            <p class="text-[14px] w-fit text-center font-light">© 2026 Puzzles. All rights reserved</p>
+                            <p class="text-[14px] w-fit text-center font-light">© <?php echo date('Y') ?> <a href="<?php echo home_url('front-page'); ?>#harminder" class="text-[14px] font-light hover:text-gold-accent transition duration-250"> Harminder Singh.</a> All rights reserved</p>
 
                             <div class="vertical_line h-full w-[1px] bg-gray-400"></div>
 
-                            <a href="<?php echo home_url('front-page'); ?>#harminder" class="text-[14px] font-light hover:text-gold-accent transition duration-250">harmindersingh</a>
+                            <p class="text-[14px] w-fit text-center font-light">Built by <a href="https://kdsumang.vercel.app/" target="_blank" class="text-[14px] font-light hover:text-gold-accent transition duration-250">Puzzles</a></p>
                             
                         </div>
 
