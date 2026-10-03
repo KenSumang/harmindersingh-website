@@ -18,23 +18,23 @@
                     <ul class="hidden flex-row gap-[28px] lg:flex mx-[16px]">
 
                         <li>
-                            <a href="<?php echo home_url('/insights'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px]">INSIGHTS</a>
+                            <a href="<?php echo home_url('/insights'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px] tracking-widest">INSIGHTS</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/services'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px]">SERVICES</a>
+                            <a href="<?php echo home_url('/services'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px] tracking-wider">SERVICES</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/case-studies'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px]">CASE STUDIES</a>
+                            <a href="<?php echo home_url('/case-studies'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px] tracking-wider">CASE STUDIES</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/about'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px]">ABOUT US</a>
+                            <a href="<?php echo home_url('/about'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px] tracking-wider">ABOUT US</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/contact-us'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px]">CONTACT US</a>
+                            <a href="<?php echo home_url('/contact-us'); ?>" class="top_nav nav-link relative hover:after:w-[100%] text-[13px] tracking-wider">CONTACT US</a>
                         </li>
 
                     </ul>
@@ -84,19 +84,19 @@
                     <ul class="hidden flex-row gap-[28px] lg:flex mx-[16px] text-primary">
 
                         <li>
-                            <a href="<?php echo home_url('/services/financial'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular">FINANCIAL</a>
+                            <a href="<?php echo home_url('/services/financial'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular tracking-wider">FINANCIAL</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/services/legal'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular">LEGAL</a>
+                            <a href="<?php echo home_url('/services/legal'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular tracking-wider">LEGAL</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/services/property-development'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular">PROPERTY DEVELOPMENT</a>
+                            <a href="<?php echo home_url('/services/property-development'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular tracking-wider">PROPERTY DEVELOPMENT</a>
                         </li>
 
                         <li>
-                            <a href="<?php echo home_url('/services/real-estate'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular">REAL ESTATE</a>
+                            <a href="<?php echo home_url('/services/real-estate'); ?>" class="bottom_nav nav-link relative hover:after:w-[100%] text-[13px] font-regular tracking-wider">REAL ESTATE</a>
                         </li>
 
                     </ul>
