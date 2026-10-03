@@ -13,15 +13,15 @@
                         <ul class="hidden gap-[10px] md:gap-[14px] lg:gap-[6px] items-center md:items-start lg:flex lg:flex-col">
 
                             <li>
-                                <a href="../insights.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">INSIGHTS</a>
+                                <a href="<?php echo home_url('/insights'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">INSIGHTS</a>
                             </li>
 
                             <li>
-                                <a href="../services.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">SERVICES</a>
+                                <a href="<?php echo home_url('/services'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">SERVICES</a>
                             </li>
 
                             <li>
-                                <a href="../case-studies.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">CASE STUDIES</a>
+                                <a href="<?php echo home_url('/case-studies'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">CASE STUDIES</a>
                             </li>
 
                         </ul>
@@ -29,11 +29,11 @@
                         <ul class="hidden gap-[10px] md:gap-[14px] lg:gap-[6px] font-light-normal items-center md:items-start lg:flex lg:flex-col">
 
                             <li>
-                                <a href="../about.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">ABOUT US</a>
+                                <a href="<?php echo home_url('/about'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">ABOUT US</a>
                             </li>
 
                             <li>
-                                <a href="../contactus.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">CONTACT US</a>
+                                <a href="<?php echo home_url('/contact-us'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">CONTACT US</a>
                             </li>
 
                         </ul>
@@ -51,15 +51,15 @@
                                 <ul class="flex flex-col gap-[10px] md:gap-[14px] font-light-normal items-center md:items-start">
 
                                     <li>
-                                        <a href="../insights.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">INSIGHTS</a>
+                                        <a href="<?php echo home_url('/insights'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">INSIGHTS</a>
                                     </li>
 
                                     <li>
-                                        <a href="../services.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">SERVICES</a>
+                                        <a href="<?php echo home_url('/services'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">SERVICES</a>
                                     </li>
 
                                     <li>
-                                        <a href="../case-studies.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">CASE STUDIES</a>
+                                        <a href="<?php echo home_url('/case-studies'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">CASE STUDIES</a>
                                     </li>
 
                                 </ul>
@@ -67,11 +67,11 @@
                                 <ul class="flex flex-col gap-[10px] md:gap-[14px] font-light-normal items-center md:items-start">
 
                                     <li>
-                                        <a href="../about.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">ABOUT US</a>
+                                        <a href="<?php echo home_url('/about'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">ABOUT US</a>
                                     </li>
 
                                     <li>
-                                        <a href="../contact-us.html" class="bottom_nav relative hover:after:w-[100%] text-[13px]">CONTACT US</a>
+                                        <a href="<?php echo home_url('/contact-us'); ?>" class="bottom_nav relative hover:after:w-[100%] text-[13px] tracking-wider">CONTACT US</a>
                                     </li>
 
                                 </ul>
